@@ -1,4 +1,4 @@
 # SALUDOS
 ## MI comida favorita :smile: 
-+pollo
-+pasta
++ pollo
++ pasta
